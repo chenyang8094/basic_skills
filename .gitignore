@@ -322,3 +322,7 @@ dkms.conf
 *.out
 *.app
 
+basic_skills
+basic_skills.cbp
+.idea/*
+
